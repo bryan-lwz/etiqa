@@ -1,7 +1,14 @@
-##CLEAN INSTALL##
+Getting Started
+
+To get started with the projects, follow these steps:
+
+1. Clone the repository
+git clone
+
+2. Build the Project
 mvn clean install
 
-##TO START THE SERVICE##
+3. Run the application
 java -jar target/customer-product-0.0.1-SNAPSHOT.jar
 
 Swagger
