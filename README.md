@@ -3,7 +3,7 @@ Getting Started
 To get started with the projects, follow these steps:
 
 1. Clone the repository
-git clone
+[git clone](https://github.com/bryan-lwz/etq-customer-product.git)
 
 2. Build the Project
 mvn clean install
